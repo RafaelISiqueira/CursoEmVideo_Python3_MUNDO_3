@@ -1,7 +1,9 @@
-#Criar um programa que leia o nome de um numero de 0 a 20:
+# Criar um programa que leia o nome de um numero de 0 a 20:
 
+# 1° - Digitar Manualmente Números de 0 á 20:
 contador = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez',
             'onde', 'dose', 'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', "vinte")
+
 
 while True:
     num = int(input('Digite um número entre 0 e 20: '))
